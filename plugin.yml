@@ -1,0 +1,4 @@
+name: Werewolf
+version: 1.0
+description: Adds werewolf fun
+main: me.zeus.Werewolf.Werewolf
